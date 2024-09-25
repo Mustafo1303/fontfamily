@@ -1,0 +1,147 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Inter';
+    list-style: none;
+    text-decoration: none;
+}
+.container{
+    max-width: 1200px;
+    width: 100%;
+    margin: auto;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0;
+}
+.navbar_bg{
+    background-color: black;
+
+}
+.mon{
+    width: 33px;
+    height: 33px;
+}
+ul{
+    display: flex;
+    gap: 25px;
+}
+ul a{
+    color: white;
+    font-family: 'Inter';
+    font-size: 18px;
+    font-weight: 500;
+}
+.one{
+    font-family: Inter;
+font-size: 88px;
+font-weight: 500;
+line-height: 93px;
+text-align: center;
+width: 743px;
+height: 186px;
+margin-top: 134px;
+margin-left: 349px;
+gap: 0px;
+opacity: 0px;
+
+}
+img{
+    border-radius: 20px;
+    width: 393px;
+     height: 230px;
+}
+.picture1{
+    background-color: white;
+    width: 393px;
+height: 396px;
+gap: 30px;
+opacity: 0px;
+margin-left: 100px;
+margin-top: 130px;
+
+}
+.two{
+    width: 212px;
+height: 34px;
+font-family: Inter;
+font-size: 28px;
+font-weight: 600;
+text-align: center;
+justify-content: center;
+align-items: start;
+
+}
+.three{
+    width: 393px;
+height: 92px;
+display: flex;
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+text-align: center;
+}
+.four{
+    width: 212px;
+    height: 34px;
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 600;
+    text-align: center;
+    justify-content: center;
+    align-items: start;
+}
+.picture2{
+    background-color: white;
+    width: 393px;
+height: 396px;
+gap: 30px;
+opacity: 0px;
+margin-left: 600px;
+margin-top: -399px;
+
+}
+.picture3{
+    background-color: white;
+    width: 393px;
+height: 396px;
+gap: 30px;
+margin-left: 1100px;
+margin-top: -399px;
+}
+.picture4{
+    background-color: white;
+    width: 393px;
+height: 396px;
+gap: 30px;
+margin-left: 100px;
+margin-top: 49px;
+}
+.picture5{
+    background-color: white;
+    width: 393px;
+height: 396px;
+gap: 30px;
+margin-left: 600px;
+margin-top: -389px;
+}
+.picture6{
+    background-color: white;
+    width: 393px;
+height: 396px;
+gap: 30px;
+margin-left: 1100px;
+margin-top: -389px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0;
+}
+.footer_bg{
+    background-color: black;
+
+}
